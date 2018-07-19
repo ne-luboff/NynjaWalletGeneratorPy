@@ -1,1 +1,5 @@
+docutils==0.14
+lockfile==0.12.2
+pidfile==0.1.1
+python-daemon==2.1.2
 tornado==5.1
