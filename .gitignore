@@ -54,7 +54,6 @@ docs/_build/
 .idea
 fabfile.py
 .env
-environment.py
 
 .DS_Store
 ssl/
